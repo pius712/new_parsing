@@ -3,7 +3,7 @@ news parsing using nodejs
 
 
 1. 언론사 API 사용하기
-![XML data example][./exXML]
+![XML data example](./exXML)
 
 2. 예시 한국경제 신문 코드
 ```javascript
